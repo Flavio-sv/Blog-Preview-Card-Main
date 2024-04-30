@@ -18,6 +18,10 @@ O projeto envolve o desenvolvimento de um Cartão de Visualização Prévia para
 
 ![4356565vvvg](https://github.com/Flavio-sv/Blog-Preview-Card-Main/assets/124817700/be018163-709c-4672-9b18-54e7ab47f2bf)
 
+### Active State
+
+![active-states](https://github.com/Flavio-sv/Blog-Preview-Card-Main/assets/124817700/4c063bdd-14f3-4a5b-94e8-17cf272e4d85)
+
 ## Como Utilizar
 
 1. Clone o repositório:
