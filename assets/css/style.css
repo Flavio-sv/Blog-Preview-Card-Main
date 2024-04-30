@@ -40,10 +40,15 @@ main {
     width: 100%;
     height: 522px;
     background-color: var(--color-white);
-    box-shadow: 8px 8px 0px 0px rgba(0,0,0,1);
+    box-shadow: 8px 8px 0px 0px rgba(0, 0, 0, 1);
     border-radius: 20px;
     border: 1px solid var(--color-black);
     padding: 22px 23px 0 23px;
+    transition: box-shadow .3s;
+}
+
+main:hover {
+    box-shadow: 16px 16px 0px 0px rgba(0, 0, 0, 1);
 }
 
 .illustration-article img {
@@ -61,12 +66,12 @@ main {
     margin-top: 23px;
     border: 1px solid #f7e7aa;
     border-left: none;
-    border-right: none; 
-    justify-content: center; 
-    align-items: center; 
+    border-right: none;
+    justify-content: center;
+    align-items: center;
     background-color: var(--color-yellow);
     font-weight: var(--font-weight-extra-bold);
-    font-size: var(--font-size-body-small);  
+    font-size: var(--font-size-body-small);
 }
 
 .content {
@@ -74,14 +79,25 @@ main {
     color: var(--color-grey);
     text-shadow: 0px -1px 0px #f7f7f7;
     font-weight: var(--font-weight-medium);
-    font-size: var(--font-size-body-medium);  
+    font-size: var(--font-size-body-medium);
 }
 
 .content h1 {
     color: var(--color-black);
-    margin:  11px 0 13px 0;
+    margin: 11px 0 13px 0;
     font-weight: var(--font-weight-extra-bold);
-    font-size: var(--font-size-heading);  
+    font-size: var(--font-size-heading);
+    cursor: default;
+}
+
+.content h1 a {
+    color: var(--color-black);
+    text-decoration: none;
+}
+
+.content h1 a:hover {
+    color: var(--color-yellow);
+    cursor: url('../images/handcursor.svg') 7 0, pointer;
 }
 
 .content time {
@@ -91,10 +107,10 @@ main {
     font-size: var(--font-size-body-small);
 }
 
-.author{
+.author {
     margin-top: 22px;
     display: flex;
-    align-items:center;
+    align-items: center;
     font-weight: var(--font-weight-extra-bold);
     font-size: var(--font-size-body-small);
 }
