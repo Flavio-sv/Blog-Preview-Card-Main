@@ -39,4 +39,4 @@ O projeto envolve o desenvolvimento de um Cartão de Visualização Prévia para
 
 ## Autor
 
-Este projeto foi desenvolvido por [Flavio-sv](https://github.com/Flavio-sv)l"
+Este projeto foi desenvolvido por [Flavio-sv](https://github.com/Flavio-sv).
