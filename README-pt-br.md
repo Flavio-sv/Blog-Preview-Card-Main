@@ -12,11 +12,11 @@ O projeto envolve o desenvolvimento de um Cartão de Visualização Prévia para
 
 ### Desktop
 
-![4535465654vvv](https://github.com/Flavio-sv/blog-preview-card-main/assets/124817700/a177447e-43f1-4230-b58c-cd8acaa2de97)
+![4535465654vvv](https://github.com/Flavio-sv/Blog-Preview-Card-Main/assets/124817700/19ab892f-cccb-4092-88dd-5fb77fc40a4e)
 
 ### Mobile
 
-![4356565vvvg](https://github.com/Flavio-sv/blog-preview-card-main/assets/124817700/1ce566ce-5fc2-4953-8bfd-f3ad3d23b676)
+![4356565vvvg](https://github.com/Flavio-sv/Blog-Preview-Card-Main/assets/124817700/be018163-709c-4672-9b18-54e7ab47f2bf)
 
 ## Como Utilizar
 
